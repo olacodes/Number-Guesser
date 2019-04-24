@@ -1,0 +1,21 @@
+body{
+    background-color: purple;
+    color: white;
+    font-family: cursive, Verdana, Geneva, Tahoma, sans-serif
+}
+span{
+    font-weight: bolder;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+.container{
+    margin:10px auto; 
+    max-width: 100%; 
+    width: 400px; 
+    
+}
+input{
+    cursor: pointer;
+}
